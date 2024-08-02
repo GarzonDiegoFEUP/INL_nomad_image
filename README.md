@@ -32,7 +32,7 @@ Docker nowadays comes with `docker compose` built in. Prior, you needed to
 install the stand-alone [docker-compose](https://docs.docker.com/compose/install/).
 2. Get the `nomad-oasis.zip` archive from your distribution repository using for example curl
 ```sh
-curl -L -o nomad-oasis.zip "curl -L -o nomad-oasis.zip "https://github.com/nomad-hzb/hzb_chemical_energy_image/raw/main/nomad-oasis.zip""
+curl -L -o nomad-oasis.zip "curl -L -o nomad-oasis.zip "https://github.com/nomad-hzb/hzb_chemical_energy_image/raw/main/nomad-oasis.zip"
 ```
 3. Unzip the `nomad-oasis.zip` file and enter the extracted directory
 ```sh
