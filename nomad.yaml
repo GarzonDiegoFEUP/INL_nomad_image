@@ -27,7 +27,8 @@ elastic:
 plugins:
   entry_point:
     include: [
-    "baseclasses"]
+    "baseclasses",
+    "nomad_chemical_energy"]
   #options:
     #schemas/nomad_material_processing:
       #python_package: nomad_material_processing
