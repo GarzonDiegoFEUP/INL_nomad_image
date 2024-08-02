@@ -1,6 +1,6 @@
 ![docker image](https://github.com/nomad-hzb/hzb_chemical_energy_image/actions/workflows/docker-publish.yml/badge.svg)
 
-# nomad-hzb's NOMAD Oasis Distribution 
+# INL NOMAD Oasis Distribution 
 
 This is the NOMAD Oasis distribution of nomad-hzb. 
 Below are instructions for how to [deploy this distribution](#deploying-the-distribution)
