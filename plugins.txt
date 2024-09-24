@@ -1,5 +1,5 @@
 nomad-measurements
 nomad-material-processing
-git+https://github.com/FAIRmat-NFDI/nomad-analysis.git@develop
+git+https://github.com/FAIRmat-NFDI/nomad-analysis.git@main
 #git+https://github.com/GarzonDiegoFEUP/nomad-baseclasses-INL.git
 #git+https://github.com/nomad-hzb/nomad-chemical-energy.git
